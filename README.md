@@ -3,13 +3,13 @@
 ## About me
 - 👨🏻‍💻 I'm currently working as a Junior Developer at IPHIGAMES.
 - 🎓 I've got a BSc (Hons) in Games Programming from SAE Athens / University of Middlesex.
-- 🎮 Video games are my main line of work, but other areas I've worked on include web development, mobile applications, and non-game interactive media.
+- 🎮 Video games are my main line of work, but other areas I've worked on include web development, mobile applications, virtual & augmented reality, and non-game interactive media.
 - 💻 My main toolset involves Unity/C#, but I like to dabble in other languages and given the time, I can adapt to any workflow.
 - 🏫 I love participating in game jams, amassing nearly 15 participations combined in The Global Game Jam, Ludum Dare, The Extra Credits Jam, among others.
 - 🖼️ I adore both the creative and technical process of creating video games, and believe in their importance as an art form.
 
 ## Noteworthy Projects
-* [Abtos Covert][abtos]: survival horror game set in a Greek remote military outpost, to be released on Steam.
+* [Abtos Covert][abtos]: survival horror game set in a Greek remote military outpost, released on Steam in December 2023.
 * [The Ellinikon Magic Christmas Carpet][ellinikon]: the largest projection mapping project in Greece, a 180m²/2000ft² themed installation comprised of three 4K projectors and depth cameras reacting to visitors' movements.
 * [OPAP Marathon VR][opap]: A virtual reality project utilizing a KAT VR treadmill, with a simultaneous third-person projection to a 6x3m video wall.
 * [Istoria App & Sociology App][istoria]: educational mobile applications for Android, made for high-school students taking the Panhellenic Exams (SAT/GCSE equivalent). Received over 10.000 downloads and 4.9/5 average rating.
