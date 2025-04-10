@@ -1,7 +1,7 @@
 ### Hey there! I'm Aimilios, a passionate, detail-oriented game developer from Athens, Greece.
 
 ## About me
-- 👨🏻‍💻 I'm currently working as a Senior Developer at IPHIGAMES.
+- 👨🏻‍💻 I'm currently working as a Software Developer at IPHIGAMES.
 - 🎓 I've got a BSc (Hons) in Games Programming from SAE Athens / University of Middlesex.
 - 🎮 Video games are my main line of work, but other areas I've worked on include web development, mobile applications, virtual & augmented reality, and non-game interactive media.
 - 💻 My main toolset involves Unity/C#, but I like to dabble in other languages and given the time, I can adapt to any workflow.
@@ -17,7 +17,7 @@
 * [Paternitree][paternitree]: a team effort for Global Game Jam Athens 2023. 
 * [Glitsa][glitsa]: first-person boomer shooter, student project. [SAE Athens' pick](https://www.sae.edu/grc/insights/sae-awards-2022-%CE%BFi-symmetohes-tis-athinas/) for Best Programming student project at the SAE Awards.
 * [Hymettus: The Hidden Lab][hymettus]: multiplayer first-person wave shooter, student project
-* [Tomako][tomako] and [Multitools][multitools] websites: Website for the Tomako Group of companies.
+* [Multitools][multitools], [Digital Tribes][dt], [Critical Hit][ch] websites: various websites for the Tomako Group of Companies.
 
 ### Contact me:
 [<img align="left" alt="LinkedIn" width="42px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw=w240-h480-rw" />][linkedin]
@@ -35,3 +35,5 @@
 [mail]: mailto:hello@aemilius.dev
 [multitools]: https://multitools.events
 [tomako]: https://tomako.group
+[dt]: https://digitaltribes.gr
+[ch]: https://criticalhitpr.com
