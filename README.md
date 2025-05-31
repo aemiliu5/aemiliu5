@@ -1,7 +1,6 @@
 ### Hey there! I'm Aimilios, a passionate, detail-oriented game developer from Athens, Greece.
 
 ## About me
-- 👨🏻‍💻 I'm currently working as a Software Developer at IPHIGAMES.
 - 🎓 I've got a BSc (Hons) in Games Programming from SAE Athens / University of Middlesex.
 - 🎮 Video games are my main line of work, but other areas I've worked on include web development, mobile applications, virtual & augmented reality, and non-game interactive media.
 - 💻 My main toolset involves Unity/C#, but I like to dabble in other languages and given the time, I can adapt to any workflow.
